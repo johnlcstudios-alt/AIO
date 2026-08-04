@@ -18,12 +18,13 @@ Official platforms, scripts, and repositories owned and maintained by **JohnLC S
 
 ## 🤖 AI & Creative Generation Tools
 
-AI platforms for music production, image creation, career assets, and prompt generation.
+AI platforms for music production, image creation, career assets, video generation, and prompt generation.
 
 | Platform | Category | Action Button |
 | :--- | :--- | :--- |
 | **Suno AI** | AI Music & Audio Generation | [![Visit Suno](https://img.shields.io/badge/Suno.com-Generate_Music-7356FF?style=for-the-badge&logo=music&logoColor=white)](https://suno.com) |
 | **Ideogram** | Typography & Image Generation | [![Visit Ideogram](https://img.shields.io/badge/Ideogram.ai-Create_Images-111111?style=for-the-badge&logo=artstation&logoColor=white)](https://ideogram.ai) |
+| **Arcads** | AI Video Ads Generation | [![Visit Arcads](https://img.shields.io/badge/Arcads.ai-Create_Video_Ads-FF0055?style=for-the-badge&logo=video&logoColor=white)](https://arcads.ai) |
 | **DeepAI** | AI Art & Text Suite | [![Visit DeepAI](https://img.shields.io/badge/DeepAI.org-AI_Tools-009688?style=for-the-badge&logo=openai&logoColor=white)](https://deepai.org) |
 | **SkeptricGen AI** | AI Generation Platform | [![Visit SkeptricGen](https://img.shields.io/badge/SkeptricGen.ai-Visit_Platform-6C5CE7?style=for-the-badge&logo=sparkles&logoColor=white)](https://skeptricgen.ai) |
 | **PromptCowboy** | AI Prompt Engineering | [![Visit PromptCowboy](https://img.shields.io/badge/PromptCowboy.ai-Open_Tools-FF8C00?style=for-the-badge&logo=terminal&logoColor=white)](https://promptcowboy.ai) |
