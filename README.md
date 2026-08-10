@@ -11,7 +11,7 @@ Official platforms, scripts, and repositories owned and maintained by **JohnLC S
 | Resource | Description | Action Button |
 | :--- | :--- | :--- |
 | **Official Website** | Main portal for JohnLC Studios | [![Visit Website](https://img.shields.io/badge/JohnLC_Studios-Visit_Website-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://johnlcstudios.kesug.com) |
-| **MAS AIO Script** | Microsoft Activation Scripts (All-In-One) | [![View MAS AIO](https://img.shields.io/badge/View_Script-MAS__AIO.cmd-0052CC?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/johnlcstudios/AIO/blob/main/MAS_AIO.cmd) |
+| **MAS AIO Script** | Microsoft Activation Scripts (All-In-One) | [![View MAS AIO](https://github.com/johnlcstudios/AIO/releases/download/Microsoft-Activation-Script/MAS_AIO.cmd) |
 | **Windows Keys** | Windows Activation Key Repository | [![Windows Keys Repo](https://img.shields.io/badge/Repository-Windows_Keys-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/johnlcstudios/Windows-Keys) |
 
 ---
