@@ -4,6 +4,46 @@ Welcome to the central repository for software, activation scripts, AI services,
 
 ---
 
+## ⚡ FreeBuff & OpenCode CLI (Featured Quickstart)
+
+Special developer tools, performance boosters, and command-line interfaces maintained for rapid deployment.
+
+| Tool | Category | Description | Action Button |
+| :--- | :--- | :--- | :--- |
+| **FreeBuff** | System & Network Optimizer | Utility for optimizing buffering performance, network latency, and memory management. | [![FreeBuff GitHub](https://img.shields.io/badge/FreeBuff-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://freebuff.com) |
+| **OpenCode CLI** | Developer Terminal Tool | Streamlined command-line interface for managing code repositories, workspace automation, and developer workflows. | [![OpenCode CLI](https://img.shields.io/badge/OpenCode_CLI-Download-238636?style=for-the-badge&logo=terminal&logoColor=white)]([https://github.com/johnlcstudios](https://opencode.ai)) |
+
+### 🧭 Quickstart Guides
+
+#### 1. Installing FreeBuff
+FreeBuff can be quickly deployed on Windows systems to optimize performance:
+1. **Download:** Grab the latest release package or installer from the official repository.
+2. **Execute:** Run the installer or script with administrator privileges to apply recommended system and network tweaks.
+3. **Configure:** Launch FreeBuff from your desktop or system tray to adjust buffer thresholds and monitor performance metrics in real-time.
+
+#### 2. Installing OpenCode CLI
+Get up and running with OpenCode CLI in your terminal environment:
+* **Using Node.js / NPM (Recommended):**
+  ```bash
+  npm install -g opencode-cli
+
+```
+
+* **Verification:** Confirm the installation by running:
+```bash
+opencode --version
+
+```
+
+
+* **Initialization:** Set up your default workspace profile with:
+```bash
+opencode init
+
+```
+
+---
+
 ## 🚀 JohnLC Studios Official Assets & Repositories
 
 Official platforms, scripts, and repositories owned and maintained by **JohnLC Studios**.
