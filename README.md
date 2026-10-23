@@ -10,7 +10,7 @@ Special developer tools, performance boosters, and command-line interfaces maint
 
 | Tool | Category | Description | Action Button |
 | :--- | :--- | :--- | :--- |
-| [**FreeBuff**]([url](https://freebuff.com)) | System & Network Optimizer | Utility for optimizing buffering performance, network latency, and memory management. | [![FreeBuff GitHub](https://img.shields.io/badge/FreeBuff-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://freebuff.com) |
+| [**FreeBuff**](https://freebuff.com) | System & Network Optimizer | Utility for optimizing buffering performance, network latency, and memory management. | [![FreeBuff GitHub](https://img.shields.io/badge/FreeBuff-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://freebuff.com) |
 | [**OpenCode CLI**](https://opencode.ai) | Developer Terminal Tool | Streamlined command-line interface for managing code repositories, workspace automation, and developer workflows. | [![OpenCode CLI](https://img.shields.io/badge/OpenCode_CLI-Download-238636?style=for-the-badge&logo=terminal&logoColor=white)](https://opencode.ai) |
 
 ### 🧭 Quickstart Guides
